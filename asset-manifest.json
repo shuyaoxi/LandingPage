@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/landing/static/css/main.038cf51d.chunk.css",
-    "main.js": "/landing/static/js/main.0504813c.chunk.js",
-    "main.js.map": "/landing/static/js/main.0504813c.chunk.js.map",
-    "runtime-main.js": "/landing/static/js/runtime-main.4ebfa02f.js",
-    "runtime-main.js.map": "/landing/static/js/runtime-main.4ebfa02f.js.map",
-    "static/js/2.ffd2a2e5.chunk.js": "/landing/static/js/2.ffd2a2e5.chunk.js",
-    "static/js/2.ffd2a2e5.chunk.js.map": "/landing/static/js/2.ffd2a2e5.chunk.js.map",
-    "index.html": "/landing/index.html",
-    "precache-manifest.64576243efa0ded481bad259191fed78.js": "/landing/precache-manifest.64576243efa0ded481bad259191fed78.js",
-    "service-worker.js": "/landing/service-worker.js",
-    "static/css/main.038cf51d.chunk.css.map": "/landing/static/css/main.038cf51d.chunk.css.map",
-    "static/js/2.ffd2a2e5.chunk.js.LICENSE.txt": "/landing/static/js/2.ffd2a2e5.chunk.js.LICENSE.txt",
-    "static/media/dummy.png": "/landing/static/media/dummy.0318df8b.png"
+    "main.css": "/LandingPage/static/css/main.038cf51d.chunk.css",
+    "main.js": "/LandingPage/static/js/main.8117b282.chunk.js",
+    "main.js.map": "/LandingPage/static/js/main.8117b282.chunk.js.map",
+    "runtime-main.js": "/LandingPage/static/js/runtime-main.4db699bd.js",
+    "runtime-main.js.map": "/LandingPage/static/js/runtime-main.4db699bd.js.map",
+    "static/js/2.7dee544e.chunk.js": "/LandingPage/static/js/2.7dee544e.chunk.js",
+    "static/js/2.7dee544e.chunk.js.map": "/LandingPage/static/js/2.7dee544e.chunk.js.map",
+    "index.html": "/LandingPage/index.html",
+    "precache-manifest.bd64f7cc258ea787f9b6699d27568bfb.js": "/LandingPage/precache-manifest.bd64f7cc258ea787f9b6699d27568bfb.js",
+    "service-worker.js": "/LandingPage/service-worker.js",
+    "static/css/main.038cf51d.chunk.css.map": "/LandingPage/static/css/main.038cf51d.chunk.css.map",
+    "static/js/2.7dee544e.chunk.js.LICENSE.txt": "/LandingPage/static/js/2.7dee544e.chunk.js.LICENSE.txt",
+    "static/media/dummy.png": "/LandingPage/static/media/dummy.0318df8b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ebfa02f.js",
-    "static/js/2.ffd2a2e5.chunk.js",
+    "static/js/runtime-main.4db699bd.js",
+    "static/js/2.7dee544e.chunk.js",
     "static/css/main.038cf51d.chunk.css",
-    "static/js/main.0504813c.chunk.js"
+    "static/js/main.8117b282.chunk.js"
   ]
 }
