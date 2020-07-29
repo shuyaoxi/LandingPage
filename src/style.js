@@ -21,7 +21,6 @@ export const Statement2 = styled.div`
   display: flex;
   align-items: center;
   letter-spacing: 0.01em;
-  text-transform: capitalize;
 `;
 export const Form = styled.div`
   align-items: left;
@@ -49,12 +48,6 @@ export const Form = styled.div`
     border: solid 1px lightgrey;
     border-radius: 3px;
   }
-`;
-export const Wrap1 = styled.div`
-  width: 35%;
-  margin-left: 5%;
-  float: left;
-  margin-top: 10%;
 `;
 
 export const Alert = styled.div`

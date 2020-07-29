@@ -22,20 +22,22 @@
 .mockUp {
   margin-top: -50px;
   width: 56%;
+  margin-right: 10px;
   float: right;
 }
 
 .Wrap1 {
   width: 425px;
-  margin-left: 5%;
+  margin-left: 7%;
   float: left;
   margin-top: 5%;
 }
 
-@media (max-width: 1090px) {
+@media (max-width: 1176px) {
   .mockUp {
     float: none;
-    width: 100%;
+    margin:auto;
+    width: 90%;
   }
   .Wrap1 {
     margin-top: 10%;
@@ -61,7 +63,7 @@
     float: none;
   }
   .App {
-    width: 460px;
+    /* width: 460px; */
   }
   .button {
     margin-top: 5%;

@@ -48,7 +48,7 @@ class App extends React.Component {
       <div className="App" onKeyDown={this.checkSubmit}>
         <img className="logo" src={logo} alt="Fanchise"></img>
         <div className="button">
-          <Button variant="outlined" href="mailto:krmishra@stanford.edu">
+          <Button variant="outlined" href="mailto:krmishra@stanford.edu" size="large">
             CONTACT
           </Button>
         </div>
