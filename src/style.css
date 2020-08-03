@@ -55,6 +55,7 @@
     float: none;
     width: 100%;
     margin-top: 20px;
+    margin-right:0px;
   }
   .Wrap1 {
     margin-top: 10%;
@@ -62,9 +63,7 @@
     width: 100%;
     float: none;
   }
-  .App {
-    /* width: 460px; */
-  }
+
   .button {
     margin-top: 5%;
   }

@@ -55,10 +55,12 @@ class App extends React.Component {
         <div className="clearfloat"></div>
         <div className="Wrap1">
           <Statement1>We Are Launching Soon</Statement1>
+          <br/>
           <Statement2>
             Stay in touch and be the first to hear about the future of
-            interactive entertainment !
+            interactive entertainment!
           </Statement2>
+          <br/>
           <Form>
             <div id="Form">
               <input
