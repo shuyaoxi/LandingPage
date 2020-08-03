@@ -20,7 +20,7 @@
   clear: both;
 }
 .mockUp {
-  margin-top: -50px;
+  margin-top: -30px;
   width: 56%;
   margin-right: 10px;
   float: right;
@@ -30,7 +30,7 @@
   width: 425px;
   margin-left: 7%;
   float: left;
-  margin-top: 5%;
+  margin-top: 6%;
 }
 
 @media (max-width: 1176px) {
